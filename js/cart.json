@@ -1,0 +1,38 @@
+[
+	{
+		"id": "10001",
+		"title": "玫瑰",
+		"size": "40*35",
+		"price":"299",
+		"alertinfo": "此商品不退不换",
+		"imgsrc": "img/cart01.jpg",
+		"num":"5"
+	},
+	{
+		"id": "10002",
+		"title": "月季",
+		"size": "40*35",
+		"price":"109",
+		"alertinfo": "此商品不退不换",
+		"imgsrc": "img/cart01.jpg",
+		"num":"1"
+	},
+	{
+		"id": "10003",
+		"title": "丁香",
+		"size": "40*35",
+		"price":"211",
+		"alertinfo": "此商品不退不换",
+		"imgsrc": "img/cart01.jpg",
+		"num":"2"
+	},
+	{
+		"id": "10004",
+		"title": "牡丹",
+		"size": "40*35",
+		"price":"119",
+		"alertinfo": "此商品不退不换",
+		"imgsrc": "img/cart01.jpg",
+		"num":"3"
+	}
+]
